@@ -124,3 +124,10 @@ a.method {
   font-family: monospace;
   color: gray;
 }
+
+#coder {
+  position: absolute;
+  left: 520px;
+  top: 2450px;
+  max-width: 300px;
+}
